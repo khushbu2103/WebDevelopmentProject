@@ -12,6 +12,7 @@ namespace WebDevelopmentProject
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("1st Branch");
+            Console.WriteLine("2nd Branch");
             Console.ReadLine();
         }
     }
